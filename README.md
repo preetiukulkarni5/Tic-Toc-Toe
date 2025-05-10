@@ -1,2 +1,5 @@
 # Tic-Toc-Toe
-This project is a simple and interactive Tic Tac Toe game developed using HTML, CSS, and JavaScript. It features a clean and responsive user interface where two players can take turns to mark their symbols (X or O) on a 3x3 grid. The game includes core functionality such as turn tracking, win condition detection, and draw scenarios. A reset button is also provided to allow players to start a new game at any time. The design is visually appealing with soft colors and subtle effects to enhance the user experience. This project demonstrates fundamental front-end web development skills and is ideal for beginners looking to understand the basics of DOM manipulation and event handling in JavaScript.
+A simple project and interactive Tic Tac Toe game developed using HTML, CSS, and JavaScript.
+
+# Description 
+A simple web-based Tic Tac Toe game built using HTML, CSS, and JavaScript. It allows two players to play alternately with win/draw detection and a reset option. A reset button is also provided to allow players to start a new game at any time.
